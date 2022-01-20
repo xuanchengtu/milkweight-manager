@@ -1,0 +1,9 @@
+Date Range Report of 2019-1-2 2019-2-10
+Meaning of columns (from left to right):
+farm ID, total weight, % of all farms
+Farm 0 270635 35.612%
+Farm 1 349385 45.975%
+Farm 2 139925 18.412%
+min: Farm 2 139925 18.412%
+max: Farm 1 349385 45.975%
+average weight of all farms: 253315
